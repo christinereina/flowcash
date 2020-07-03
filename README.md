@@ -1,5 +1,50 @@
 # _F1owCa$h_
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$,,,$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$"OOO"$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$!OOO!$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$,"OOO",$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$,"OOOOOOO",$$$$$$$$$$$$$
+$$$$$$$$$$$$!"OOOOOOOOOOO"!$$$$$$$$$$$
+$$$$$$$$$$,"OOOOOOOOOOOOOOO",$$$$$$$$$
+$$$$$$$$,1OOOOOOOOOOOOOOOOOOO7,$$$$$$$
+$$$$$$,!OOOOOOOOOOOOOOOOOOOOOO"$$$$$$$
+$$$$$$!OOOOOOOOO/""""'\OOOOOOOO1$$$$$$
+$$$$$$"OOOOOOOOOO"$$$$!OOOOOOOO"$$$$$$
+$$$$$$"OOOOOOOOOOO!$$$",OOOOOOO!$$$$$$
+$$$$$$$",OOOOOOOOOO",$$$"""""""$$$$$$$
+$$$$$$$$"!OOOOOOOOOOO",$$$$$$$$$$$$$$$
+$$$$$$$$$$",OOOOOOOOOOO",$$$$$$$$$$$$$
+$$$$$$$$$$$$"OOOOOOOOOOOO",$$$$$$$$$$$
+$$$$$$$$$$$$$"!OOOOOOOOOOOO"+$$$$$$$$$
+$$$$$$$$$$$$$$$"==OOOOOOOOOOO,$$$$$$$$
+$$$$$$$$,,,,,,$$$$",OOOOOOOOOO",$$$$$$
+$$$$$$,"OOOOOO',$$$$",OOOOOOOOO!$$$$$$  
+$$$$$$1OOOOOOOO."~~~"OOOOOOOOOO!$$$$$$
+$$$$$$!OOOOOOOOOOOOOOOOOOOOOOO1$$$$$$$
+$$$$$$",OOOOOOOOOOOOOOOOOOOOO,"$$$$$$$
+$$$$$$$",OOOOOOOOOOOOOOOOOOO!$$$$$$$$$
+$$$$$$$$$1OOOOOOOOOOOOOOOO,1$$$$$$$$$$
+$$$$$$$$$$"~~,OOOOOOOOOO,"$$$$$$$$$$$$
+$$$$$$$$$$$$$$"""1OOO1"'$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$!OOO!$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$,OOO,$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$"""$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=objects/money
+
+
+------------------------------------
+
 #### Epicodus Week Six Independent Project, Asynchrony and APIs | Currency Exchanger, 07.02.2020
 
 #### By _**Christine Augustine**_
@@ -17,6 +62,9 @@
 * Create the webpack bundled /dist directory by running the terminal command "npm install" in the root directory.
 * Open /dist/index.html in your preferred internet browser.
 
+### API SETUP
+* Visit [ExchangeRate-API](https://www.exchangerate-api.com/) and create an account
+* Obtain an API KEY (ex.ae16641d6983eb51ef6932sh2)
 
 ## Known Bugs
 
@@ -27,7 +75,7 @@ _ _
 Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me.
 
 Christine Augustine's email:
-_blacchoy@gmail.com_
+_codechristin3@gmail.com_
 
 
 ## Technologies Used
@@ -42,6 +90,9 @@ _blacchoy@gmail.com_
 * _Jest_
 * _Webpack_
 * _EsLint_
+
+## Special Thanks:
+* [Ascii Art](https://asciiart.website/index.php?art=objects/money) By Calendron
 
 ### License
 
