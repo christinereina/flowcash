@@ -2,19 +2,23 @@
 
 #### Epicodus Week Six Independent Project, Asynchrony and APIs | Currency Exchanger, 07.02.2020
 
-#### By _**Christine Augustine**_
+#### By **Christine Augustine**
 
----
 
 ## Description
 ----
 
-$$$ This is a currency exchanger $$$ The user will be able to type in an amount in U.S. dollars and then choose which currency it should be converted to. 
+$$$ This is a currency exchanger $$$ 
 
-### Specs
+## Specifications
+----
+
+The user will be able to type in an amount in U.S. dollars and then choose which currency it should be converted to. 
+
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | User will enter an amt in USD and get the converted amt in the user's selected currency | USD: $100, Currency: PESO | 2,256.18 PESO
+
 
 ## Setup/Installation Requirements
 
@@ -33,7 +37,9 @@ $$$ This is a currency exchanger $$$ The user will be able to type in an amount 
 
 ---
 
-_ _
+n/a
+
+
 
 ## Support and contact details
 
@@ -62,9 +68,10 @@ _codechristin3@gmail.com_
 ## Special Thanks:
 ---
 
+*
 
-### License
 ----
+### License
 
 *GPL license distribution*
 
