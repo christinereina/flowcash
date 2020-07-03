@@ -20,10 +20,12 @@ $(document).ready(function() {
     function getConversion(response) {
       if (response.conversion_rates[convertCurrency]) {
         let rate = response.conversion_rates[convertCurrency];
-        let convert = (rate * amount);
-        console.log(convert);
-        $("#output").text(convert);
-      }
+        let convert = (rate * amount).toFixed(2);
+        $("#output").text(`Your ${amount} USD is ${convert} ${convertCurrency}`);
+      } else {
+        $("#output").text("Please check your inputs and try again!");
+
+      } 
     }
   });
 });
