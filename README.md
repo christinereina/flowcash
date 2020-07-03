@@ -9,7 +9,7 @@
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-
+| User will enter an amt in USD and get the converted amt in the user's selected currency | USD: $100, Currency: PESO | 2,256.18 PESO
 
 ## Setup/Installation Requirements
 
@@ -22,12 +22,13 @@
 
 _ _
 
+## Support and contact details
+
 Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me.
 
 Christine Augustine's email:
 _blacchoy@gmail.com_
 
-## Support and contact details
 
 ## Technologies Used
 
