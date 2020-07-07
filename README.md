@@ -5,12 +5,12 @@
 #### By **Christine Augustine**
 
 ## Description
-----
+---
 
 $$$ This is a currency exchanger $$$ 
 
 ## Specifications
-----
+---
 
 The user will be able to type in an amount in U.S. dollars and then choose which currency it should be converted to. 
 
@@ -64,7 +64,7 @@ _codechristin3@gmail.com_
 * _Webpack_
 * _EsLint_
 
-----
+---
 ### License
 
 *GPL license distribution*
