@@ -4,7 +4,6 @@
 
 #### By **Christine Augustine**
 
-
 ## Description
 ----
 
@@ -64,11 +63,6 @@ _codechristin3@gmail.com_
 * _Jest_
 * _Webpack_
 * _EsLint_
-
-## Special Thanks:
----
-
-*
 
 ----
 ### License
