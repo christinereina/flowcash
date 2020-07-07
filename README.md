@@ -5,12 +5,11 @@
 #### By **Christine Augustine**
 
 ## Description
----
 
 $$$ This is a currency exchanger $$$ 
 
 ## Specifications
----
+
 
 The user will be able to type in an amount in U.S. dollars and then choose which currency it should be converted to. 
 
@@ -20,8 +19,6 @@ The user will be able to type in an amount in U.S. dollars and then choose which
 
 
 ## Setup/Installation Requirements
-
----
 
 * Clone or download from Github Repository 
 * Create the webpack bundled /dist directory by running the terminal command "npm install" in the root directory.
@@ -34,24 +31,16 @@ The user will be able to type in an amount in U.S. dollars and then choose which
 
 ## Known Bugs
 
----
-
 n/a
 
-
-
 ## Support and contact details
-
----
 
 Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me.
 
 Christine Augustine's email:
 _codechristin3@gmail.com_
 
-
 ## Technologies Used
----
 
 * _Markdown_
 * _Git_
@@ -64,7 +53,6 @@ _codechristin3@gmail.com_
 * _Webpack_
 * _EsLint_
 
----
 ### License
 
 *GPL license distribution*
