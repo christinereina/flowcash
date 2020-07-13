@@ -18,7 +18,7 @@ $(document).ready(function() {
     })();
 
     function getConversion(response) {
-      if (response.conversion_rates[convertCurrency]) {
+      if (response) {
         let rate = response.conversion_rates[convertCurrency];
         let convert = (rate * amount).toFixed(2);
         $("#output").text(`Your $${amount} USD is ${convert} ${convertCurrency}`);
